@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" alt="Banner de Oscar Zarco" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Oscar Zarco</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
