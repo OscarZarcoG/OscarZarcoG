@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Oscar Zarco</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=OscarZarcoG&label=Profile%20views&color=0e75b6&style=flat" alt="OscarZarcoG" /> </p>
-
 <!-- About Me -->
 <h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
@@ -79,4 +77,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=OscarZarcoG&label=Profile%20views&color=0e75b6&style=flat" alt="OscarZarcoG" /> </p>
+
  -->
