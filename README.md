@@ -209,3 +209,16 @@
     </td>
   </tr>
 </table>
+
+<!-- ABOUT ME -->
+<h3 align="center">👨‍💻 Sobre mí</h3>
+<p align="center">
+  ¡Hola! Soy Oscar, desarrollador frontend con experiencia en React, Next.js y diseño UX/UI. 
+  Me apasiona crear interfaces intuitivas y escalables. 
+  Cuando no estoy programando, disfruto de la fotografía y los videojuegos retro 🎮.
+</p>
+
+<!-- STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarZarcoG&show_icons=true&theme=radical" alt="Estadísticas de Oscar" />
+</p>
