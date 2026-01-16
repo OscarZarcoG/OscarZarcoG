@@ -1,14 +1,15 @@
 <p align="center">
   <img src="./Banner.png" alt="Banner de Oscar Zarco" width="100%"/>
 </p>
-<h1 align="center">Hi 👋, I'm Oscar Zarco</h1>
+<h1 align="center">Hi, I'm Oscar Zarco</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 <!-- About Me -->
-<h3 align="center">👨‍💻 About Me</h3>
+<h3 align="center">About Me</h3>
 <p align="center">
-  ¡Hola! Soy Oscar, desarrollador frontend con experiencia en React, Next.js y diseño UX/UI. 
-  Me apasiona crear interfaces intuitivas y escalables. 
+  Hi! I'm Oscar, a frontend developer with experience in React, Next.js, and UX/UI design. 
+  I'm passionate about creating intuitive and scalable interfaces. 
+
 
 </p>
 
