@@ -64,8 +64,19 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarZarcoG&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarZarcoG&layout=compact&theme=dark" alt="Top Langs"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OscarZarcoG&theme=radical&no-frame=true" />
+
+  <img src="https://metrics.lecoq.io/OscarZarcoG?template=classic&isocalendar=1&languages=1&activity=1&theme=dark" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarZarcoG&theme=dark" />
+
+  <img src="https://metrics.lecoq.io/OscarZarcoG?template=classic&languages=1&languages.limit=8&theme=dark" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarZarcoG&theme=radical" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarZarcoG&hide=issues&theme=dark" />
+
+
 </p>
 
 <!-- Contact
