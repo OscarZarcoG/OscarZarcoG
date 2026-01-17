@@ -64,11 +64,12 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarZarcoG&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OscarZarcoG&show_icons=true&theme=radical&cache_seconds=21600" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarZarcoG&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarZarcoG&theme=radical&cache_seconds=21600" />
 
-  <img src="https://metrics.lecoq.io/OscarZarcoG?languages=1&theme=dark" />
+  <img src="https://metrics.lecoq.io/OscarZarcoG?languages=1&theme=dark&cache_seconds=21600" />
+
 </p>
 
 
